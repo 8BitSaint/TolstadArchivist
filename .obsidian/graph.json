@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Menus/Inventory  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Menus/Journal  ",
+      "color": {
+        "a": 1,
+        "rgb": 11700276
+      }
+    },
+    {
+      "query": "path:Menus/Questing  ",
+      "color": {
+        "a": 1,
+        "rgb": 16774912
+      }
+    },
+    {
+      "query": "path:Menus/Spellbook  ",
+      "color": {
+        "a": 1,
+        "rgb": 3289040
+      }
+    },
+    {
+      "query": "path:\"Game World/Interactable Characters\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Game World/Visitable Locations\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 7.1875,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.16348370567220022,
+  "close": false
+}

@@ -1,0 +1,6 @@
+---
+tags:
+aliases:
+  - Halflings
+---
+# Notes

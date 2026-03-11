@@ -1,0 +1,12 @@
+# Meta
+**Difficulty Check:** Cha DC10
+**Categories:** 
+
+# Text
+A [[Dwarf|Dwarven]] expression, meaning something like 'I do not have the energy to deal with this right now.'
+
+# Related Entries
+* [[Modissa]]
+
+# Notes
+* 
