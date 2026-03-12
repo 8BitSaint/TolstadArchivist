@@ -18,7 +18,7 @@ tags:
 * [[Snell's Pad]] in [[Pillar Crossing]]
 * [[Game World/Visitable Locations/Goblin Garden|Goblin Garden]] if dismissed
 
-# Questlines
+# Questlines / Events
 * 
 
 # Text

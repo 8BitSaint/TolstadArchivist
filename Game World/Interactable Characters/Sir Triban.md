@@ -16,7 +16,7 @@ tags:
 # Locations
 * [[Tolstad South]] at night
 
-# Questlines
+# Questlines / Events
 * 
 
 # Text

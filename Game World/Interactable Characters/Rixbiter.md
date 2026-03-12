@@ -13,7 +13,7 @@
 # Locations
 * [[Drunk Sphinx]]
 
-# Questlines
+# Questlines / Events
 * [[A Freelance Hag]]
 * [[Capital Dominion]]
 

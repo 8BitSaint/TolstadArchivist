@@ -18,7 +18,7 @@ aliases:
 * First found in the ruins of [[Game World/Visitable Locations/The City Below The City|The City Below The City]]
 * Can be found in [[Drunk Sphinx]] after completing his quest
 
-# Questlines
+# Questlines / Events
 * [[Lost Mines Of Toul'Amon]]
 
 # Text

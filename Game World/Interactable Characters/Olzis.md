@@ -16,7 +16,7 @@ tags:
 # Locations
 * [[Drunk Sphinx]]
 
-# Questlines
+# Questlines / Events
 * [[An Easy Riddle]]
 
 # Text

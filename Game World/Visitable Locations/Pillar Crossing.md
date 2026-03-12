@@ -1,7 +1,16 @@
 ---
 tags:
 ---
-## Map Connections
+
+# Meta
+**Affiliation:**
+**Accessibility:**
+
+# Description / Text
+> [!info] Behold
+>
+
+# Map Connections
 * [[Drunk Sphinx]]
 * [[Tolstad South]]
 	* One entrance near the [[Brachen]] tree
@@ -11,14 +20,17 @@ tags:
 * [[Secret Tunnel]]
 * [[Waterlane View]]
 
-## Characters
-* 
+# Characters
+*
 
 # Loot
-* 
+*
 
 # Secrets
-* 
+*
+
+# Related Entries
+*
 
 # Notes
 * Location in the [[Tolstad]] district of [[Norvik]]

@@ -1,7 +1,16 @@
 ---
 tags:
 ---
-## Map Connections
+
+# Meta
+**Affiliation:**
+**Accessibility:**
+
+# Description / Text
+> [!info] Behold
+>
+
+# Map Connections
 * [[Lower Lair]]
 * [[Tolstad South]]
 	* One entrance across from the [[Brachen]] tree
@@ -9,15 +18,17 @@ tags:
 * [[Pillar Crossing]]
 	* Exits right next to the [[Pillar of Jor]]
 
-## Characters
-* 
+# Characters
+*
 
 # Loot
-* 
+*
 
 # Secrets
-* 
+*
+
+# Related Entries
+* Journal Entry: [[Menus/Journal/City/Goblin Garden|Goblin Garden]]
 
 # Notes
-* Journal Entry: [[Menus/Journal/City/Goblin Garden|Goblin Garden]]
 * Location in the [[Tolstad]] district of [[Norvik]]

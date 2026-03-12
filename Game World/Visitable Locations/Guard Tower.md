@@ -1,10 +1,19 @@
 ---
 tags:
 ---
-## Map Connections
+
+# Meta
+**Affiliation:**
+**Accessibility:**
+
+# Description / Text
+> [!info] Behold
+>
+
+# Map Connections
 * [[Tolstad North]]
 
-## Characters
+# Characters
 * [[Eittir]] during
 
 # Loot
@@ -12,8 +21,12 @@ tags:
 	* [[Crowns]]
 	* [[Vourgeni River Droplets]]
 *
+
 # Secrets
-* 
+*
+
+# Related Entries
+*
 
 # Notes
 * Location in the [[Tolstad]] district of [[Norvik]]

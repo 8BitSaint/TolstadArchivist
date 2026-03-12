@@ -1,11 +1,23 @@
 ---
 tags:
+aliases: []
 ---
-# Text
->There is a powerful spellcaster named [[Haelon Bondavol]] hiding down in the crypts. You must find him.
 
-> You had a lovely conversation with Bondevol, the demi-lich. He was only somewhat insane
+# Meta
+
+**Started By:** 
+**Location:** 
+**Prerequisites:** 
+
+# Text
+
+> [!info] Quest Log
+> >There is a powerful spellcaster named [[Haelon Bondavol]] hiding down in the crypts. You must find him.
+> 
+> > You had a lovely conversation with Bondevol, the demi-lich. He was only somewhat insane
+
 # Completing
+
 1. Find the [[Elf]] corpse in the [[Tea Shop]]
 	1. See [[The Tea Shop That Blew Up]]
 2. A cutscene will bring you back to [[Visken's Lair]]
@@ -15,6 +27,11 @@ tags:
 6. Pass a difficult Intelligence check to learn [[Menus/Spellbook/Speak with Dead|Speak with Dead]]
 
 # Reward
+
 [[]]
+
+# Related Entries
+
+* 
 
 # Notes

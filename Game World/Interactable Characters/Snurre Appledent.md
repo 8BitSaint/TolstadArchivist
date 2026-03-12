@@ -17,7 +17,7 @@ tags:
 * [[Snurre's Office]] during the day
 * [[Drunk Sphinx]] at night
 
-# Questlines
+# Questlines / Events
 * [[The Lost 6th Edition]]
 
 # Text

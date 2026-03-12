@@ -1,6 +1,14 @@
 ---
 tags:
 ---
+# Meta
+**Affiliation:** 
+**Accessibility:** 
+
+# Description / Text
+> [!info] Behold
+> 
+
 # Map Connections
 * 
 
@@ -11,6 +19,9 @@ tags:
 * 
 
 # Secrets
+* 
+
+# Related Entries
 * 
 
 # Notes

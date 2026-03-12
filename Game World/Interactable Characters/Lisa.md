@@ -17,7 +17,7 @@ tags:
 # Locations
 * [[]]
 
-# Questlines
+# Questlines / Events
 * [[A Freelance Hag]]
 
 # Text

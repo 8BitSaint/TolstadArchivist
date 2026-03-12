@@ -1,22 +1,34 @@
 ---
 tags:
 ---
-## Map Connections
+
+# Meta
+**Affiliation:**
+**Accessibility:**
+
+# Description / Text
+> [!info] Behold
+>
+
+# Map Connections
 * [[Tea Shop]]
 	* Leads to [[Secret Tunnel]]
 * [[Rollermill]]
 	* One entrance at the top of the stairs
 	* One entrance that leads to/from [[Waterlane View]]
-* 
+*
 
-## Characters
-* 
+# Characters
+*
 
 # Loot
-* 
+*
 
 # Secrets
-* 
+*
+
+# Related Entries
+*
 
 # Notes
 * Journal Entry: [[Tolstad]]

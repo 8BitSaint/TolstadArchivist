@@ -8,7 +8,8 @@ aliases: []
 **Prerequisites:** 
 
 # Text
-> [Paste in-game text box content here. Use a separate blockquote for each update.]
+> [!info] Quest Log
+> 
 
 # Completing
 1. 
