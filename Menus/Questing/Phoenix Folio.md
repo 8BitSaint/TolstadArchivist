@@ -8,7 +8,7 @@ tags:
 
 > You found a [[Shen Yelan|Bookbinder]] on [[Waterlane View]]. He'll fix your prayer book, but you'll have to pay 250 [[crowns]] for the job. And it'll take him till the next morning. Or rather, afternoon, since he's an owl. They seem to be nocturnal. Or maybe it's a bookbinder thing. Don't be judgmental,
 
-> You managed to get back your prayer book - now rebound and in a shiny fresh condition. This should help a lot in memorizing #spells!
+> You managed to get back your prayer book - now rebound and in a shiny fresh condition. This should help a lot in memorizing spells!
 
 # Completing
 1. Go to [[Waterlane View]] during the day
@@ -18,7 +18,7 @@ tags:
 
 # Reward
 * Completing rewards a different spellbook depending on the stat chosen in dialogue.
-	* #Charisma : [[DARK GRIMOIRE]]
+	* #Charisma : [[Dark Grimoire]]
 	* #Intelligence :
 	* #Wisdom :
 	* #Strength :

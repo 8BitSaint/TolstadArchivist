@@ -1,18 +1,24 @@
 ---
-tags:
+tags: []
+aliases: []
 ---
-# Text
-The helm of a [[Freestrider]] mercenary. An effective design due to its rounded shape, which deflects blows, and its extended protection for the face and neck. Very expensive. Makes you look like a [[Cleric|Clerical]] nobleman. But heavy. It'll be draining to wear this.
+# Meta
+**Source:** [[]]
 
-# Effects
-+1 #Dexterity
-+1 #Intelligence
--2 #Constitution
+# Description / Text
+> The helm of a [[Freestrider]] mercenary. An effective design due to its rounded shape, which deflects blows, and its extended protection for the face and neck. Very expensive. Makes you look like a [[Cleric|Clerical]] nobleman. But heavy. It'll be draining to wear this.
+
+# Mechanics / Effects
+* **Stats:** +1 #Dexterity, +1 #Intelligence, -2 #Constitution
+* **Special:** 
 
 # Obtaining
 1. 
 
-# Related Quests
-* 
+# Related Entries
+* **Quests:** [[]]
+* **Characters:** [[]]
+* **Locations:** [[]]
 
 # Notes
+* 

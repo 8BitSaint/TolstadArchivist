@@ -1,5 +1,19 @@
 ---
+aliases: []
 tags:
+---
+# General
+## Meta
+**Difficulty Check:** 
+**Source:** 
+**Categories:** 
+
+## Text
+
+---
+# Related Entries
+* 
+
 ---
 # Notes
 * A member of the [[Soderfelt]] family

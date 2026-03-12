@@ -26,7 +26,7 @@ tags:
 # Text
 A remnant of the [[Arcanist|Arcanists]] left to decay into a bejeweled skull. A Demi-Lich. 
 
-Grew up in [[Cree-Iv]] in the 300s. Learned #Necromancy  from a ghost named [[Uilieena Prax]]. 
+Grew up in [[Cree-Iv]] in the 300s. Learned [[Necromancy]]  from a ghost named [[Uilieena Prax]]. 
 
 Raised his Cree-Iv's dead from the crypts to defend against a barbarian invasion from the [[Vourgeni]] border. While receiving a war commendation in [[Thazen]], seduced and charmed [[Accalia Bondavol]], the daughter of a [[Haagin-Dim Coalition]] [[Arcanist]], who then made sure he was promoted to the [[Arcanist Circle]].
 

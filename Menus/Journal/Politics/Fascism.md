@@ -1,7 +1,19 @@
 ---
 tags:
+aliases: []
 ---
-# Text
+# General
+## Meta
+**Difficulty Check:** 
+**Source:** 
+**Categories:** 
+
+## Text
 The ideology of nationalism, born during the fall of the Magocracies in [[Old Diminor]]. The term originates from the [[Gnome|Gnomish]] 'fascio', which means something akin to 'a collection of warriors'.
 
+---
+# Related Entries
+* 
+
 # Notes
+* 

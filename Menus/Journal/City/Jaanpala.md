@@ -1,15 +1,20 @@
 ---
+aliases: []
 tags:
 ---
-# Meta
+# Intelligence
+## Meta
 **Difficulty Check:** Int DC14
-**Categories:** 
+**Source:** 
+**Categories:** # Text
 
-# Text
+## Text
 The #Currency of the [[Illym|Illym Empire]]. Looks like a piece of ice. Very rare to see in [[Norvik]].
 
+---
 # Related Entries
-* 
+*
 
+---
 # Notes
-* 
+*

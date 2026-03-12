@@ -1,5 +1,4 @@
 ---
-tags:
 aliases:
   - meter
   - Meter
@@ -7,8 +6,20 @@ aliases:
   - kilometers
   - Kilometer
   - Kilometers
+tags:
 ---
-# Text
+# General
+## Meta
+**Difficulty Check:** 
+**Source:** 
+**Categories:** 
+
+## Text
 A way of measuring distances. Invented by an [[Arcanist]] named Upplind [[Hagginshags]]. Today it's only used in scholarly circles.
 
+---
+# Related Entries
+*
+
 # Notes
+*

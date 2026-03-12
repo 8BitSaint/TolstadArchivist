@@ -21,7 +21,7 @@ tags:
 8. Report back to Akzel for the reward
 
 # Reward
-[[PICKAXE OF SECRETS]]
+[[Pickaxe of Secrets]]
 * Examine the item to learn [[Detect Secrets]] by studying the pickaxe
 
 # Notes

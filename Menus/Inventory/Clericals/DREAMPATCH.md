@@ -1,11 +1,24 @@
 ---
-tags:
+tags: []
+aliases: []
 ---
-# Text
-Small amounts of Pixie Essence incorporated into a sticky patch. 
+# Meta
+**Source:** [[]]
 
-# Effects
-Can be used to recover #Level3  spell slots.
+# Description / Text
+> Small amounts of Pixie Essence incorporated into a sticky patch. 
+
+# Mechanics / Effects
+* **Stats:** 
+* **Special:** Can be used to recover #Level3 spell slots.
+
+# Obtaining
+1. 
+
+# Related Entries
+* **Quests:** [[]]
+* **Characters:** [[]]
+* **Locations:** [[]]
 
 # Notes
 * 

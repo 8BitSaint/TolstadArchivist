@@ -1,13 +1,17 @@
 ---
 tags:
+aliases: []
 ---
-# Meta
+# [Skill Name or General]
+## Meta
 **Difficulty Check:** 
+**Source:** 
 **Categories:** 
 
-# Text
+## Text
 
 
+---
 # Related Entries
 * 
 

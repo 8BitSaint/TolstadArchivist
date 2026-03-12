@@ -1,18 +1,23 @@
 ---
 tags:
 ---
-# Text
-A vial of blessed river-water from [[Vourgeni]], land of giants. Popular among the [[Urthguard]]. It's usually labeled as 'NOT BLOOD'.
+# Meta
+**Source:** [[Vourgeni]]
 
-# Effects
-Grants a minor #Strength increase for a week.
+# Description / Text
+> A vial of blessed river-water from [[Vourgeni]], land of giants. Popular among the [[Urthguard]]. It's usually labeled as 'NOT BLOOD'.
+
+# Mechanics / Effects
+* **Stats:** 
+* **Special:** Grants a minor #Strength increase for a week.
 
 # Obtaining
 1. 
 
-# Related Quests
-* 
+# Related Entries
+* **Quests:** [[]]
+* **Characters:** [[]]
+* **Locations:** [[Vourgeni]]
 
 # Notes
 * 
-

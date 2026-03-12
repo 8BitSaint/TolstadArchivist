@@ -1,20 +1,24 @@
 ---
-tags:
+tags: []
+aliases: []
 ---
-# Text
-The helm of an [[Arcane Era]] #Paladin . Mass-produced for legions in the [[Coast War]]. Extremely cool-looking.
+# Meta
+**Source:** [[Oyugui]]
 
-# Effects
-+1 #Strength
-+1 #Charisma
--1 #Wisdom
--1 #Intelligence
+# Description / Text
+> The helm of an [[Arcane Era]] #Paladin . Mass-produced for legions in the [[Coast War]]. Extremely cool-looking.
+
+# Mechanics / Effects
+* **Stats:** +1 #Strength, +1 #Charisma, -1 #Wisdom, -1 #Intelligence
+* **Special:** 
 
 # Obtaining
-1. Purchase from [[Oyugui]] on '[[Pillar Street]] for 300 [[crowns]]
+1. Purchase from [[Oyugui]] on [[Pillar Street]] for 300 [[crowns]]
 
-# Related Quests
-* 
+# Related Entries
+* **Quests:** [[]]
+* **Characters:** [[Oyugui]]
+* **Locations:** [[Pillar Street]]
 
 # Notes
 * 

@@ -1,5 +1,19 @@
 ---
+aliases: []
 tags:
 ---
+# General
+## Meta
+**Difficulty Check:** 
+**Source:** 
+**Categories:** 
+
+## Text
+
+
+---
+# Related Entries
+*
+
 # Notes
-The three pillars of magic are [[Arcane]], [[Divine]], and [[Primal]].
+*

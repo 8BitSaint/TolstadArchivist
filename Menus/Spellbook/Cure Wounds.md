@@ -1,18 +1,22 @@
 ---
 tags:
-  - Spells
   - Level1
 ---
 # Info
-Ist-level [[evocation]]
-Casting Time: 1 bonus action
-Category: [[Divine]]
-Range: Touch
-Components: V, S
-Duration: Instantaneous
+| Level | School | Category | Casting Time |
+| ----- | ------ | -------- | ------------ |
+| #Level1 | [[evocation]] | [[Divine]] | 1 bonus action |
 
-# Effect
+| Range | Duration | Components | Source |
+| ----- | -------- | ---------- | ------ |
+| Touch | Instantaneous | V, S |  |
+
+# Text / Effect
 A creature you touch regains a number of hit points equal to 1d8 + your #Wisdom ability modifier. This spell has no effect on [[undead]] or constructs.
+
+# Mechanics
+* Regains 1d8 + #Wisdom hit points.
+* No effect on [[undead]] or constructs.
 
 # Obtaining
 1. You start with this spell

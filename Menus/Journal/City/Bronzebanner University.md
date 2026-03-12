@@ -1,15 +1,20 @@
 ---
+aliases: []
 tags:
 ---
-# Meta
+# General
+## Meta
 **Difficulty Check:** 8
-**Stat:** Intelligence
+**Source:** 
+**Categories:** 
 
-# Text
+## Text
 The largest public scholarly facility in [[Norvik]]. Supported by the state, and often the location of political upheaval these days, due to student protests.
 
+---
 # Related Entries
-* 
+*
 
+---
 # Notes
-* 
+*

@@ -1,7 +1,19 @@
 ---
 tags:
+aliases: []
 ---
-# Text
+# General
+## Meta
+**Difficulty Check:** 
+**Source:** 
+**Categories:** 
+
+## Text
 Death In Perpetuity.
 
+---
+# Related Entries
+* 
+
 # Notes
+* 

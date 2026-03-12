@@ -1,17 +1,24 @@
 ---
-tags:
+tags: []
+aliases: []
 ---
-# Text
-Practically your face.
+# Meta
+**Source:** [[]]
 
-# Effects
-N/A
+# Description / Text
+> Practically your face.
+
+# Mechanics / Effects
+* **Stats:** 
+* **Special:** N/A
 
 # Obtaining
 1. You start the game with this
 
-# Related Quests
-* 
+# Related Entries
+* **Quests:** [[]]
+* **Characters:** [[]]
+* **Locations:** [[]]
 
 # Notes
 * 

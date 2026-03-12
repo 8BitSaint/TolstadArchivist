@@ -4,9 +4,9 @@ tags:
 # Stats
 **Description:** 
 
-| Race                                                    | Class | Level | [[Alignment]] |
-| ------------------------------------------------------- | ----- | ----- | ------------- |
-| [[Game World/Interactable Characters/Griffon\|Griffon]] |       |       |               |
+| Race                                      | Class | Level | [[Alignment]] |
+| ----------------------------------------- | ----- | ----- | ------------- |
+| [[Menus/Journal/Nature/Griffon\|Griffon]] |       |       |               |
 
 | Str | Dex | Con | Int | Wis | Cha |
 | --- | --- | --- | --- | --- | --- |

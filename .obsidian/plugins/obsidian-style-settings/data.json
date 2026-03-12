@@ -16,5 +16,7 @@
   "anuppuccin-theme-settings@@anp-card-layout-padding": 5,
   "anuppuccin-theme-settings@@anp-card-header-left-padding": 10,
   "anuppuccin-theme-settings@@anp-card-layout-actions": true,
-  "anuppuccin-theme-settings@@anp-card-layout-filebrowser": false
+  "anuppuccin-theme-settings@@anp-card-layout-filebrowser": false,
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-nord-light",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte"
 }

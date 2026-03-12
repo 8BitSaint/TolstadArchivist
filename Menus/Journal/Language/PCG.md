@@ -1,8 +1,20 @@
 ---
 tags:
   - Nickname
+aliases: []
 ---
-# Text
+# General
+## Meta
+**Difficulty Check:** 
+**Source:** 
+**Categories:** 
+
+## Text
 [[Pest Control Guild]].
 
+---
+# Related Entries
+* 
+
 # Notes
+* 

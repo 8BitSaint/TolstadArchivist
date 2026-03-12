@@ -1,8 +1,19 @@
 ---
 tags:
+aliases: []
 ---
-# Text
+# General
+## Meta
+**Difficulty Check:** 
+**Source:** 
+**Categories:** 
+
+## Text
 Your god.
+
+---
+# Related Entries
+* 
 
 # Notes
 * One of the [[Walking God|Walking Gods]]
@@ -12,4 +23,4 @@ Your god.
 * Destroyed the [[Troll]] empires with his brother [[Tol]], [[Dwarf|Dwarves]], and others
 * Made [[Borgo Darrow]] his first #Paladin 
 * Joined by [[Crann]] during the [[Goblin Wars]]
-* 
+*

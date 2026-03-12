@@ -28,4 +28,4 @@ tags:
 
 
 # Notes
-* Will give the [[CRYPT KEY]] when asked
+* Will give the [[Crypt Key]] when asked

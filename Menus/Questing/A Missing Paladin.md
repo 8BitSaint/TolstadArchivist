@@ -12,7 +12,7 @@ tags:
 1. 
 
 # Reward
-[[PALADIN'S INSIGNIA]]
+[[Paladin's Insignia]]
 
 # Notes
 * 

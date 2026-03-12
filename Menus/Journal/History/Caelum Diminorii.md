@@ -1,9 +1,20 @@
 ---
 tags:
+aliases: []
 ---
-# Text
+# General
+## Meta
+**Difficulty Check:** 
+**Source:** 
+**Categories:** 
+
+## Text
 The mythical first [[Arcanist]]. His existence is disputed. He was a relative of [[Doug Doulin Dim]], and is said to have been the first [[human]] to learn magic from his [[Dragon|Dragonmasters]].
+
+---
+# Related Entries
+* [[Doug Doulin Dim]]
+* [[Old Diminor]]
 
 # Notes
 * A prominent member of the [[Diminorii]] family, one of the magocratic families of [[Old Diminor]].
-* 

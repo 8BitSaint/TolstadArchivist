@@ -1,16 +1,24 @@
 ---
 tags:
-  - Spells
   - Level1
 ---
-# Text
-1st-level [[enchantment]]
-Casting Time: 1 action
-Category: [[Divine]]
-Range: 30 feet
-Components: V, S, M (a sprinkling of river water)
-Duration: Concentration, up to 1 hour
+# Info
+| Level | School | Category | Casting Time |
+| ----- | ------ | -------- | ------------ |
+| #Level1 | [[enchantment]] | [[Divine]] | 1 action |
 
+| Range | Duration | Components | Source |
+| ----- | -------- | ---------- | ------ |
+| 30 feet | Concentration, up to 1 hour | V, S, M (a sprinkling of river water) |  |
+
+# Text / Effect
 You bless yourself with divine guidance. For the duration, you add 1d4 to all ability checks.
 
+# Mechanics
+* 
+
 # Obtaining
+
+
+# Related Entries
+

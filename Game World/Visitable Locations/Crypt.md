@@ -4,7 +4,7 @@ tags:
 # Map Connections
 * [[Game World/Visitable Locations/The City Below The City|The City Below The City]]
 * [[Temple of Urth]] via [[Waterlane View]]
-	* Requires the [[CRYPT KEY]] from [[The Duck]] to unlock the door
+	* Requires the [[Crypt Key]] from [[The Duck]] to unlock the door
 	* An elevated path that leads between the [[Temple of Urth]] and [[Crypt]]
 
 # Characters

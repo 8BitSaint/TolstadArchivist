@@ -1,6 +1,18 @@
 ---
-tags:
-  - Spells
+aliases: []
 ---
+# General
+## Meta
+**Difficulty Check:** 
+**Source:** Custom
+**Categories:** 
+
+## Text
+
+
+---
+# Related Entries
+*
+
 # Notes
-One of X schools of [[Arcane]] magic.
+*

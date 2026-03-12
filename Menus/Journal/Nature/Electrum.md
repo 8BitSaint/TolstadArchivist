@@ -1,7 +1,19 @@
 ---
 tags:
+aliases: []
 ---
-# Text
+# General
+## Meta
+**Difficulty Check:** 
+**Source:** 
+**Categories:** 
+
+## Text
 An old term for magical [[amber]] ore. It is only mined in three locations across the [[Coast]]. The [[Clanlands]] of [[Askan]], the [[Toothy River]] of [[Hae'Xi]], and the [[Rock Woods]] of [[Ym]].
 
+---
+# Related Entries
+* 
+
 # Notes
+* 

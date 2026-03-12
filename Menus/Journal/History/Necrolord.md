@@ -1,14 +1,18 @@
 ---
 tags:
   - Title
+aliases: []
 ---
-# Meta
+# General
+## Meta
 **Difficulty Check:** 
+**Source:** 
 **Categories:** 
 
-# Text
+## Text
 A title of [[Old Diminor]].
 
+---
 # Related Entries
 * [[Haelon Bondavol]]
 * [[Arcanist]]

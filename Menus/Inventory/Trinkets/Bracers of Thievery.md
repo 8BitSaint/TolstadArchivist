@@ -1,0 +1,26 @@
+---
+tags:
+---
+# Meta
+**Source:** [[]]
+
+# Description / Text
+> A pair of iron-and-leather bracers, marked by symbols of [[Illym]] craftmanship. They are extremely magical, and grants the wearer an intense improvement to sleight of hand and trifling-related activities.
+
+# Mechanics / Effects
+* **Stats:** +2 #Dexterity
+* **Special:** Lowers the #DC of trifling checks by your #Proficiency
+
+# Obtaining
+1. Find the corpse in the [[Tea Shop]] during [[The Tea Shop That Blew Up]]
+2. Start [[Elven Connection]]
+3. Return to [[Visken's Lair]] at night to find the bracers next to the burned corpse
+
+# Related Entries
+* **Quests:** * [[The Tea Shop That Blew Up]]
+* [[Elven Connection]]
+* **Characters:** [[]]
+* **Locations:** [[]]
+
+# Notes
+*

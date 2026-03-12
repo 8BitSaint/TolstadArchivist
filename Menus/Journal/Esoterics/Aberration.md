@@ -1,8 +1,18 @@
 ---
-tags:
-aliases:
-  - Aberrations
-  - aberrations
-  - Aberrational
+aliases: []
 ---
+# General
+## Meta
+**Difficulty Check:** 
+**Source:** 
+**Categories:** 
+
+## Text
+
+
+---
+# Related Entries
+*
+
 # Notes
+*

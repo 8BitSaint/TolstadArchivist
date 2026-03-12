@@ -29,4 +29,4 @@ aliases:
 > He will find it, one day, some day. But not this day. Perhaps you will see him again? Who are you kidding, of course you will.
 
 # Notes
-* Rewards you with the [[PICKAXE OF SECRETS]] upon completing his quest
+* Rewards you with the [[Pickaxe of Secrets]] upon completing his quest

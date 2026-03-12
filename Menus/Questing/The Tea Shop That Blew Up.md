@@ -8,7 +8,7 @@ tags:
 
 > You've managed to get inside the Tea Shop. Time to investigate!
 
-> Clue: You found a [[MELTED ILLYM BROOCH|magic metal brooch]] in the ruins. It was half-melted. No normal fire could ever harm a magic item, even a minor one like this.
+> Clue: You found a [[Melted Illym Brooch|magic metal brooch]] in the ruins. It was half-melted. No normal fire could ever harm a magic item, even a minor one like this.
 
 > Clue: You found [[Kargamesh|Kargameshian]] tea left in the ruined tea press. The state of the machine makes it clear someone was brewing at the time of the explosion.
 

@@ -10,9 +10,8 @@ tags:
 # Loot
 * Chest above bed (requires [[Caelum's Mage Hand]])
 	* [[Crowns]]
-	* [[VOURGENI RIVER DROPLETS]]
-* 
-
+	* [[Vourgeni River Droplets]]
+*
 # Secrets
 * 
 

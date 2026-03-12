@@ -1,0 +1,17 @@
+# --- Volatile UI (Causes Merge Conflicts) ---
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/backlink.json
+.obsidian/starred.json
+.obsidian/backlink.json
+.obsidian/cache/
+
+# --- System & Trash ---
+.DS_Store
+Thumbs.db
+.trash/
+
+# --- Gemini Temporary Files ---
+.gemini/*
+!.gemini/.context-bridge-template.md

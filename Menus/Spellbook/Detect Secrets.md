@@ -1,20 +1,23 @@
 ---
 tags:
-  - Spells
   - Level1
 ---
-# Text
-Ist-level [[divination]]
-Casting Time: 1 action
-Category: [[Arcane]]
-Range: 50 feet
-Components: V, S
-Duration: Situational, instantaneous
+# Info
+| Level     | School         | Category   | Casting Time |
+| --------- | -------------- | ---------- | ------------ |
+| #Level1 | [[divination]] | [[Arcane]] | 1 action     |
 
+| Range | Duration | Components | Source |
+| ----- | -------- | ---------- | ------ |
+| 50 feet | Situational, instantaneous | V, S |  |
+
+# Text / Effect
 If there is a trap, hidden cache, or secret door that you are not aware of within range, you create a translucent trail guiding you to its location.
+
+# Mechanics
 
 # Obtaining
 Complete the [[Lost Mines Of Toul'Amon]] quest.
 
-# Notes
-Journal Entry: [[Detect Secret]]
+# Related Entries
+* **Journal Entry:** [[Menus/Journal/Spells/Detect Secret|Detect Secret]]

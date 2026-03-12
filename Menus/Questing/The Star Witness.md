@@ -17,7 +17,7 @@ tags:
 2. Bring [[Snell]] to [[Game World/Visitable Locations/The City Below The City|The City Below The City]] and proceed through the north doorway into the ruins
 3. Go left at the first split (right would lead you to [[Akzel Madsson]])
 4. Enter the hallway with the fire trap and proceed past it with [[Snell]]
-5. Where the fire hallway forks, cast [[Detect Secrets]] to reveal a hidden passage to [[Undercoast Path]].
+5. Where the fire hallway forks, cast [[Detect Secrets]] to reveal a hidden passage to [[Undercoast Path]]
 	1. You will be attacked by the [[Masked Assassin]] as part of the [[Cult Hit]] quest when walking into the hallway
 6. 
 
